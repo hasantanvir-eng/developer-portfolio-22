@@ -65,6 +65,10 @@ h2 {
     background-position: left;
 }
 
+.experience-area h1 {
+    margin-left: 5%;
+}
+
 #full-stack-developer {
     border-left: 7px solid tomato;
 }
